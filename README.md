@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aurokalyan Sahoo 👋
 
-<!--
-**Auro2964/auro2964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student | AI & ML
 
-Here are some ideas to get you started:
+I'm interested in building practical AI applications, intelligent automation tools, and software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🔭 Exploring AI-powered applications and document processing
+- 🌱 Learning Machine Learning, Generative AI, and backend development
+- 💻 Languages: Python, Java, SQL
+- 🧠 Interests: AI/ML, RAG, NLP, and problem-solving
+
+### Technologies
+Python · Java · SQL · Streamlit · LangChain · ChromaDB · TensorFlow · Git
+
+### Projects
+- Smart PDF Question-Answering System — RAG-based PDF question answering
+- GST Reconciliation Assistant — Financial mismatch detection and draft notifications
+
+### Connect With Me
+- [LinkedIn](https://linkedin.com/in/auro-kalyan-sahoo)
+- [GitHub](https://github.com/auro2964)
+
+*Learning, building, and improving one project at a time.*
